@@ -55,7 +55,7 @@ Every sailor learns the sea by surviving the storms.
 
 This project is licensed under the [MIT License](../LICENSE).
 
-Created and maintained by Helen Najar | Lionheart | [balladbylionheart.com](https://www.balladbylionheart.com)
+Created and maintained by Helen Najar | [balladbylionheart.com](https://www.balladbylionheart.com)
 
 
 ## 📬 Contact

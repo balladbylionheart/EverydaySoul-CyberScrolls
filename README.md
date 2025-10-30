@@ -46,7 +46,7 @@ _What to do after a phishing mistake._
 
 This project is licensed under the [MIT License]([MIT License](./LICENSE))
 
-Created and maintained by Helen Najar | Lionheart | [balladbylionheart.com](https://www.balladbylionheart.com)
+Created and maintained by Helen Najar | [balladbylionheart.com](https://www.balladbylionheart.com)
 
 
 ## 📬 Contact
