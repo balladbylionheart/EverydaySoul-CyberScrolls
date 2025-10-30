@@ -46,7 +46,7 @@ Every sailor learns the sea by surviving the storms.
 ### 🧭 Resources  
 - 🎥 Watch the episode on YouTube → [After the Click – Everyday Soul: Tips & Tricks](https://youtube.com/@BalladByLionheart)  
 - 🌐 Visit [balladbylionheart.com](https://balladbylionheart.com)  
-- 📜 **Download the Full Scroll:** [After the Click – Complete Guide (PDF)](./AEverydaySoul-CyberScrolls_EP07_AfterTheClick.pdf)  
+- 📜 **Download the Full Scroll:** [After the Click – Complete Guide (PDF)](./EverydaySoul-CyberScrolls_EP07_AfterTheClick.pdf)  
 - 📂 Return to Main Repository → [EverydaySoul-CyberScrolls](../README.md)
 
 ---
