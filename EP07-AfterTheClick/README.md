@@ -53,7 +53,7 @@ Every sailor learns the sea by surviving the storms.
 
 ## ⚖️ License
 
-This project is licensed under the [MIT License](https://github.com/balladbylionheart/Everydaysoul-Cyberscrolls/blob/main/LICENSE.md).
+This project is licensed under the [MIT License](../LICENSE).
 
 Created and maintained by Helen Najar | Lionheart | [balladbylionheart.com](https://www.balladbylionheart.com)
 
