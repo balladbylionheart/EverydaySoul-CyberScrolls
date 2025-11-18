@@ -57,7 +57,7 @@ This project is licensed under the [MIT License](../LICENSE).
 
 Created and maintained by Helen Najar | [balladbylionheart.com](https://www.balladbylionheart.com)
 
-
+---
 ## 📬 Contact
 
 For inquiries, feedback, or collaboration opportunities:
