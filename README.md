@@ -1,5 +1,3 @@
-
-
 # 🛡️ EverydaySoul-CyberScrolls
 
 **Guides, prevention tips, and poetic scrolls from the *Everyday Soul: Tips & Tricks* series — crafted to help you defend, recover, and navigate digital storms with clarity and courage.**
@@ -24,9 +22,9 @@ Each guide blends **technical steps**, **faith-driven wisdom**, and **practical 
 | EP04      | Track the Tricksters with MXToolbox                    | ✅ Complete      |
 | EP05      | Follow the False Trail – Scan the Link Before You Sink | ✅ Complete      |
 | EP06      | Unmasking the Engines                                  | ✅ Complete      |
-| **EP07**  | **After the Click**                                    | ✅ Complete      |
-| EP08      | Fortify the Dock                                       | ⚙️ Coming Soon   |
-
+| EP07      | After the Click                                        | ✅ Complete      |
+| **EP08**  | **Fortify the Dock**                                   | ✅ Complete      |
+| EP09      | The Second Key                                         | ⚙️ Coming Soon   |
 ---
 
 ## 🧭 Navigation
@@ -41,12 +39,12 @@ Each episode folder contains:
 
 ## 🌅 Latest Scroll
 
-### **EP07 – After the Click**
+### **EP08 – Fortify the Dock**
 
-*What to do after a phishing mistake — with calm, clarity, and protection.*
+*Guard your harbor well; most dangers drift in quietly, not with thunder*
 
-📖 [Read the guide](./EP07-AfterTheClick/README.md)
-📜 [Download the Full Scroll (PDF)](./EP07-AfterTheClick/EverydaySoul-CyberScrolls_EP07_AfterTheClick.pdf)
+📖 [Read the guide](./EP08-FortifyTheDock/README.md)
+📜 [Download the Full Scroll (PDF)](./EP08-FortifyTheDock/EverydaySoul-CyberScrolls_EP08_FortifyTheDock.pdf)
 
 ---
 
