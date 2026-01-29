@@ -14,18 +14,18 @@ Each guide blends **technical steps**, **faith-driven wisdom**, and **practical 
 
 ## 📜 Scroll Index
 
-| ⚓ Episode | 🕯️ Title                                             | 🔧 Status        |
+| ⚓ Episode | 🕯️ Title | 🔧 Status |
 | --------- | ------------------------------------------------------ | -------------    |
-| EP01      | Revive Your Slow PC                                    | ✅ Complete      |
-| EP02      | Disk Cleanup – Isn’t Just About Space                  | ✅ Complete      |
-| EP03      | The Inbox Trap                                         | ✅ Complete      |
-| EP04      | Track the Tricksters with MXToolbox                    | ✅ Complete      |
-| EP05      | Follow the False Trail – Scan the Link Before You Sink | ✅ Complete      |
-| EP06      | Unmasking the Engines                                  | ✅ Complete      |
-| EP07      | After the Click                                        | ✅ Complete      |
-| **EP08**  | **Fortify the Dock**                                   | ✅ Complete      |
-| EP09      | The Second Key                                         | ⚙️ Coming Soon   |
----
+| EP01      | Revive Your Slow PC | ✅ Complete      |
+| EP02      | Disk Cleanup: Isn’t Just About Space | ✅ Complete      |
+| EP03      | The Inbox Trap | ✅ Complete      |
+| EP04      | Track the Tricksters with MXToolbox | ✅ Complete      |
+| EP05      | Follow the False Trail: Scan the Link Before You Sink | ✅ Complete      |
+| EP06      | Unmasking the Engines | ✅ Complete      |
+| EP07      | After the Click | ✅ Complete      |
+| EP08  | Fortify the Dock | ✅ Complete      |
+| **EP09**    | **The Second Key** | ✅ Complete |
+| EP10      | Anchor the Logs | ⚙️ Coming Soon   |---
 
 ## 🧭 Navigation
 
@@ -39,12 +39,12 @@ Each episode folder contains:
 
 ## 🌅 Latest Scroll
 
-### **EP08 – Fortify the Dock**
+### **EP09 – The Second Key**
 
-*Guard your harbor well; most dangers drift in quietly, not with thunder*
+*A quiet guide to Multi-Factor Authentication where one pause becomes the line between access and intrusion.*
 
-📖 [Read the guide](./EP08-FortifyTheDock/README.md)
-📜 [Download the Full Scroll (PDF)](./EP08-FortifyTheDock/EverydaySoul-CyberScrolls_EP08_FortifyTheDock.pdf)
+📖 [Read the guide](./EP09-TheSecondKey/README.md)
+📜 [Download the Full Scroll (PDF)](./EP09-TheSecondKey/EverydaySoul-CyberScrolls_EP09_TheSecondKey.pdf)
 
 ---
 
