@@ -24,8 +24,8 @@ Each guide blends **technical steps**, **faith-driven wisdom**, and **practical 
 | EP06      | Unmasking the Engines | ✅ Complete      |
 | EP07      | After the Click | ✅ Complete      |
 | EP08  | Fortify the Dock | ✅ Complete      |
-| **EP09**    | **The Second Key** | ✅ Complete |
-| EP10      | Anchor the Logs | ⚙️ Coming Soon   |---
+| EP09   | The Second Key | ✅ Complete |
+| **EP10** | **Anchor the Logs** | **✅ Complete** |---
 
 ## 🧭 Navigation
 
@@ -39,12 +39,12 @@ Each episode folder contains:
 
 ## 🌅 Latest Scroll
 
-### **EP09 – The Second Key**
+### **EP10 – Anchor the Logs**
 
-*A quiet guide to Multi-Factor Authentication where one pause becomes the line between access and intrusion.*
+*The final CyberScroll of the season — a guide to protecting your credit identity by anchoring the records that define your name.*
 
-📖 [Read the guide](./EP09-TheSecondKey/README.md)
-📜 [Download the Full Scroll (PDF)](./EP09-TheSecondKey/EverydaySoul-CyberScrolls_EP09_TheSecondKey.pdf)
+📖 [Read the guide](./EP10-AnchorTheLogs/README.md)
+📜 [Download the Full Scroll (PDF)](./EP10-AnchorTheLogs/EverydaySoul-CyberScrolls_EP10_AnchorTheLogs.pdf)
 
 ---
 
